@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "b88f3909dda95c35cff02924c8948967294d0b124929dd153d3a766e46665d67"
+            "sha256": "17339b05314340e0a7f26c0aeae5a7eec6e903dee0316ea673b3d0662e4b22d0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,12 +16,15 @@
         ]
     },
     "default": {
+        "74c507a": {
+            "path": "./../hug"
+        },
         "senseme": {
             "hashes": [
-                "sha256:fc91b5a4cd04b98077484911e393039c606c328e92cc6a689cfc47f8f95cba96"
+                "sha256:a2cff52c8d567aace8e14ce82fd257cc8a7bdc3e1ea3076473770372014360a3"
             ],
             "index": "pypi",
-            "version": "==0.1.4"
+            "version": "==0.1.5"
         }
     },
     "develop": {}
